@@ -1,18 +1,7 @@
-- 👋 Hi, I’m @irobinett3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-irobinett3/irobinett3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 Hi, I'm Ian Robinett. 
-I'm interested in software development, and AI and machine learning dvelopment. 
-I'm currently doing research on AI search techniques at Notre Dame.
-Feel free to contact me at irobinett3@nd.edu.
-Here is my personal portfolio: 
+I'm a rising junior Computer Science Major at the University of Notre Dame.
+My main interests are software development, artificial intelligence, and machine learning. 
+Currently, I am undergraduate research assistant to Professor Collin McMillan, where I am aiding him to build an AI-powered natural language processing search Flask application for a job search company.
+Previously, I have been project Lead in website redesign for ADEC, and contributed to a project generating balloon drop trajectory using Python, implementing GUI with Tkinter. I have completed projects in machine learning, artificial intelligence, Node.js, and Cloud Computing.
+Feel free to contact me at irobinet@nd.edu.
+Here is my personal portfolio: https://personal-website-4bvom1z5e-ian-robinetts-projects-ce4861df.vercel.app/
