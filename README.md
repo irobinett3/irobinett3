@@ -1,3 +1,3 @@
 I am a senior at the University of Notre Dame, majoring in Computer Science, with a strong passion for software development, artificial intelligence (AI), and machine learning (ML). My diverse work spans research, development, and leadership, enabling me to contribute meaningfully to both academic and industry projects. Currently, I am a research assistant and student at the University of Notre Dame. This summer, I worked as an AI researcher intern at MIT Lincoln Laboratory. I am currently exploring full-time employment opportunities.
 Feel free to contact me at irobinet@nd.edu.
-Here is my personal portfolio: https://personal-website-4bvom1z5e-ian-robinetts-projects-ce4861df.vercel.app/
+Here is my personal portfolio: https://personal-website-git-master-ian-robinetts-projects-ce4861df.vercel.app/
