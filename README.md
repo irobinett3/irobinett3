@@ -1,1 +1,1 @@
-SWE @ Ohm, CS Senior at ND
+SWE @ Ohm
